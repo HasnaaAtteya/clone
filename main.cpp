@@ -1,6 +1,6 @@
 print (1)
 
+ cout<<"hello";
 
-
-print (2)
+print ()
 print (3)
